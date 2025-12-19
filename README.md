@@ -4,7 +4,7 @@ Workman is a freelancing platform designed to connect skilled tradespeople — s
 The website allows workers to showcase their craft while helping customers find the right expert for their projects quickly and easily.
 
 
-Features
+🚀 Features
 
 User-friendly interface for both tradespeople and clients
 
@@ -17,7 +17,7 @@ Service listings with descriptions and categories
 Backend support for storing and managing user data
 
 
-Technologies Used
+🛠️ Technologies Used
 
 HTML5 – structure and content
 
@@ -28,3 +28,13 @@ JavaScript – interactivity and dynamic components
 PHP – backend logic and server-side processing
 
 MySQL – database for storing user and service information
+
+📁 Project Structure
+
+Front-end pages (homepage, service listings, profiles, etc.)
+
+Backend scripts (PHP logic for login, registration, and database operations)
+
+Database schema (MySQL tables for users, services, categories, etc.)
+
+Asset files (images, icons, stylesheets, etc.)

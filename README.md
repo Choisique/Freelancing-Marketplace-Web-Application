@@ -9,25 +9,29 @@ The platform aims to simplify how people find trusted craftsmen, while giving fr
 
 ✨ Features
 
-🎨 Freelancer profiles with skill listings
+Freelancer profiles with skill listings
 
-🔍 Service search with categories
+Service search with categories
 
-🛠️ Project pages and service descriptions
+Project pages and service descriptions
 
-🔐 User authentication (login & registration)
+User authentication (login & registration)
 
-🗂️ MySQL database for storing user and service data
+MySQL database for storing user and service data
 
-📱 Responsive front-end interface
+Responsive front-end interface
 
 🛠️ Technologies Used
-Technology	Purpose
-HTML5	Structure & content
-CSS3	UI styling & layout
-JavaScript	Interactivity
-PHP	Backend logic
-MySQL	Database
+
+HTML5 – structure and content
+
+CSS3 – styling and layout
+
+JavaScript – interactivity and dynamic components
+
+PHP – backend logic and server-side processing
+
+MySQL – database for storing user and service information
 
 📂 Project Structure
 /assets

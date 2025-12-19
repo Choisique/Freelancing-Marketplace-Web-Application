@@ -1,40 +1,39 @@
 Workman – Freelancing Platform for Skilled Tradespeople
 
-Workman is a freelancing platform designed to connect skilled tradespeople — such as painters, carpenters, masons, plumbers, electricians, artisans, and other craft professionals — with clients who need their services.
-The website allows workers to showcase their craft while helping customers find the right expert for their projects quickly and easily.
+Connecting artisans with clients who need their expertise.
 
+🚀 Overview
 
-🚀 Features
+Workman is a freelancing platform that enables skilled tradespeople—such as painters, carpenters, masons, electricians, and other artisans—to showcase their work and connect with clients looking for professional services.
+The platform aims to simplify how people find trusted craftsmen, while giving freelancers a place to promote their skills.
 
-User-friendly interface for both tradespeople and clients
+✨ Features
 
-Profile creation for freelancers to list skills and services
+🎨 Freelancer profiles with skill listings
 
-Search functionality to help clients find suitable tradespeople
+🔍 Service search with categories
 
-Service listings with descriptions and categories
+🛠️ Project pages and service descriptions
 
-Backend support for storing and managing user data
+🔐 User authentication (login & registration)
 
+🗂️ MySQL database for storing user and service data
+
+📱 Responsive front-end interface
 
 🛠️ Technologies Used
+Technology	Purpose
+HTML5	Structure & content
+CSS3	UI styling & layout
+JavaScript	Interactivity
+PHP	Backend logic
+MySQL	Database
 
-HTML5 – structure and content
+📂 Project Structure
+/assets
+/css
+/js
+/php
+/database
 
-CSS3 – styling and layout
 
-JavaScript – interactivity and dynamic components
-
-PHP – backend logic and server-side processing
-
-MySQL – database for storing user and service information
-
-📁 Project Structure
-
-Front-end pages (homepage, service listings, profiles, etc.)
-
-Backend scripts (PHP logic for login, registration, and database operations)
-
-Database schema (MySQL tables for users, services, categories, etc.)
-
-Asset files (images, icons, stylesheets, etc.)

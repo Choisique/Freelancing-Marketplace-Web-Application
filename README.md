@@ -34,10 +34,12 @@ PHP – backend logic and server-side processing
 MySQL – database for storing user and service information
 
 📂 Project Structure
-/assets
-/css
-/js
-/php
-/database
+Front-end pages (homepage, service listings, profiles, etc.)
+
+Backend scripts (PHP logic for login, registration, and database operations)
+
+Database schema (MySQL tables for users, services, categories, etc.)
+
+Asset files (images, icons, stylesheets, etc.)
 
 

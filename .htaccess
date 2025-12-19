@@ -1,0 +1,5 @@
+# This makes URLs pretty by allowing a page to be accessed without the file extension
+# e.g. /create-listing.php can now be visited at /create-listing without the .php extension
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]

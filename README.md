@@ -7,19 +7,32 @@ Connecting artisans with clients who need their expertise.
 Workman is a freelancing platform that enables skilled tradespeople—such as painters, carpenters, masons, electricians, and other artisans—to showcase their work and connect with clients looking for professional services.
 The platform aims to simplify how people find trusted craftsmen, while giving freelancers a place to promote their skills.
 
-✨ Features
+Workman also includes a Market Insight & Analytics feature that provides valuable data on service demand, pricing trends, and freelancer activity—helping both freelancers and clients make informed decisions.
 
-Freelancer profiles with skill listings
+✨ Key Features
 
-Service search with categories
+Freelancer profiles displaying skills, services, and experience
 
-Project pages and service descriptions
+Search & filtering to help clients find the right tradesperson
 
-User authentication (login & registration)
+Service listings with detailed descriptions and categories
 
-MySQL database for storing user and service data
+User authentication (registration & login)
 
-Responsive front-end interface
+Market Insight & Analytics showing:
+
+1. In-demand Skills
+
+2. Highest paying industries
+
+3. Job listings available per category
+
+4. Average ptice per catefgory
+
+Responsive design for mobile and desktop
+
+MySQL database integration for storing users, services, and analytics data
+
 
 🛠️ Technologies Used
 
@@ -33,7 +46,9 @@ PHP – backend logic and server-side processing
 
 MySQL – database for storing user and service information
 
+
 📂 Project Structure
+
 Front-end pages (homepage, service listings, profiles, etc.)
 
 Backend scripts (PHP logic for login, registration, and database operations)
